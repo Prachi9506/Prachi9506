@@ -1,5 +1,5 @@
 # 💫 About Me:
- <br>👋 Hello! I’m Prachi Sharma, a first year BTech student with a passion for web development and a strong foundation in Data Structures & Algorithms (DSA). I have hands-on experience with languages and technologies like HTML, CSS, JavaScript, and Bootstrap, along with a solid understanding of coding principles in C, C++, and Python.<br><br><br>💡 What I Do<br><br>💻 Web Development: Frontend expertise in HTML, CSS, JavaScript, Bootstrap with backend learning in Node.js, SQL, MongoDB.<br><br>⚡ Competitive Programming: Active on LeetCode (Max Rating: 1505), CodeChef (Max Rating: 1174).<br><br>📚 DSA Enthusiast: Strong foundation in C++, with proficiency in Python and JavaScript.<br><br>🌎 Open Source & Community: Engaged with  CP Byte and DevUp for DSA & School of AIML for Web Development.<br><br>🎯 Current Focus: Exploring Backend Development, Full Stack Projects, and Hackathons.
+ <br>👋 Hello! I’m Prachi Sharma, a first year BTech student with a passion for web development and a strong foundation in Data Structures & Algorithms (DSA). I have hands-on experience with languages and technologies like HTML, CSS, JavaScript, and Bootstrap, along with a solid understanding of coding principles in C, C++, and Python.<br><br><br>
 
 
 ## 🌐 Socials:
