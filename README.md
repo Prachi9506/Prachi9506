@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello! I’m Prachi Sharma
 <br>👋 Hello! I’m Prachi Sharma, a first year BTech student with a passion for web development and a strong foundation in Data Structures & Algorithms (DSA). I have hands-on experience with languages and technologies like HTML, CSS, JavaScript, and Bootstrap, along with a solid understanding of coding principles in C, C++, and Python.<br><br><br>
  
  
