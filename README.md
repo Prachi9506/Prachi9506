@@ -1,4 +1,4 @@
-<img src="216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="40" alt="Coding GIF"><img src="lol.gif" width="40" alt="Coding GIF"><img src="hehe.gif" width="40" alt="Coding GIF">
+<img src="216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="200" alt="Coding GIF"><img src="lol.gif" width="40" alt="Coding GIF"><img src="hehe.gif" width="40" alt="Coding GIF">
 # 💫 Hello! I’m Prachi Sharma
 <br>👋 Hey, I’m Prachi Sharma — a Computer Science undergrad who writes code, breaks it, fixes it (usually), and occasionally ends up learning something new in the process.
 
