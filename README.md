@@ -1,4 +1,4 @@
-![Coding](js banner.gif)
+![Coding](jsbanner.gif)
 
 # 💫 Hello! I’m Prachi Sharma
 <br>👋 Hey, I’m Prachi Sharma — a Computer Science undergrad who writes code, breaks it, fixes it (usually), and occasionally ends up learning something new in the process.
