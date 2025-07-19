@@ -1,9 +1,7 @@
 <img src="216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="200" alt="Coding GIF"><img src="lol.gif" width="200" alt="Coding GIF"><img src="hehe.gif" width="200" alt="Coding GIF">
 # <img src="fire.png" width="40" alt="Coding GIF"> <img src="fire.png" width="40" alt="Coding GIF"> Hello! I’m Prachi Sharma <img src="fire.png" width="40" alt="Coding GIF"> <img src="fire.png" width="40" alt="Coding GIF">
-
 <img src="line.gif" width="100%" alt="Coding GIF">
-
-<br>👋 Hey, I’m Prachi Sharma — a Computer Science undergrad who writes code, breaks it, fixes it (usually), and occasionally ends up learning something new in the process.
+👋 Hey, I’m Prachi Sharma — a Computer Science undergrad who writes code, breaks it, fixes it (usually), and occasionally ends up learning something new in the process.
 
 I’m into competitive programming, web development, and anything that involves logic, caffeine, and a tiny bit of chaos.
 Skilled in C++, Python, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, MySQL, and Git/GitHub. Currently diving into the backend world with Node.js, Express.js, and MongoDB — because front-end wasn’t challenging enough (just kidding, JS, you win).
