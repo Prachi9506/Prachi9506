@@ -7,9 +7,6 @@ Skilled in C++, Python, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, MySQL, and
 
 I’ve built projects, participated in hackathons, and love turning ideas into real, working applications — preferably without segmentation faults.
 Also comfortable with problem-solving, data structures & algorithms, and pretending that debugging is a personality trait.<br><br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=Prachi9506&label=Profile%20views&color=0e75b6&style=flat" alt="Prachi9506" />
-
  
  
  ## 🌐 Socials: <img src="skills.gif" width="25" alt="Coding GIF">
