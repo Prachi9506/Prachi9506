@@ -8,7 +8,7 @@ Skilled in C++, Python, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, MySQL, and
 I’ve built projects, participated in hackathons, and love turning ideas into real, working applications — preferably without segmentation faults.
 Also comfortable with problem-solving, data structures & algorithms, and pretending that debugging is a personality trait.<br><br><br>
  
- 
+  
  ## 🌐 Socials: <img src="skills.gif" width="25" alt="Coding GIF">
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prachisharma95) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prachisharma9506@gmail.com) 
  
