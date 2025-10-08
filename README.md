@@ -19,7 +19,3 @@ Also comfortable with problem-solving, data structures & algorithms, and pretend
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prachi9506&theme=tokyo-night" alt="Activity Graph" />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prachi9506&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
