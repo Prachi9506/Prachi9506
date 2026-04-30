@@ -3,10 +3,10 @@
 Hey, I’m Prachi Sharma, a Computer Science undergrad who writes code, breaks it, fixes it (usually), and occasionally ends up learning something new in the process.
 
 I’m into competitive programming, web development, and anything that involves logic, caffeine, and a tiny bit of chaos.
-Skilled in C++, Python, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, MySQL, and Git/gitHub. Currently diving into the backend world with Node.js, Express.js, and MongoDB — because front-end wasn’t challenging enough (just kidding, JS, you win). 
+Skilled in C++, Python, JavaScript, HTML5, CSS3, Tailwind, MySQL, and Git/gitHub. Currently diving into the backend world with Node.js, Express.js, and MongoDB, because front-end wasn’t challenging enough (just kidding, JS, you win). 
 
-I’ve built projects, participated in hackathons, and love turning ideas into real, working applications (preferably without segmentation faults).
-Also comfortable with problem-solving, data structures & algorithms, and pretending that debugging is a personality trait.<br><br><br>
+I’ve built projects, participated in hackathons, and love turning ideas into real, working applications (preferably without segmentation faults >_<).
+Also comfortable with problem-solving, data structures & algorithms, and pretending that debugging is a personality trait.{*-*}<br><br><br>
  
    
  ## 🌐 Socials: <img src="skills.gif" width="25" alt="Coding GIF"> 
